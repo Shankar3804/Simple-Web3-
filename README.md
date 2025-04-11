@@ -15,6 +15,9 @@ A simple React + Ethers.js project that allows users to connect their MetaMask w
 - LocalStorage
 
 ---
+## 🚀 Live Demo
+[Click to View on Vercel](https://simple-web3-rust.vercel.app/)
+
 
 ### ✨ Author
 Shankar Chinapana  
